@@ -1,0 +1,10 @@
+#store the dna sequence in variables
+dna = "ATGCAATGGCA"
+#count the number of adinine "A"
+print("A=", dna.count("A") )
+#count the number of thymine "T"
+print("T=", dna.count("T") )
+#count the number of guanine "G"
+print("G=", dna.count("G") )
+#count the number of cytosine "C"
+print("C=", dna.count("C") )
